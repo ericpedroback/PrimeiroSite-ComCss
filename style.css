@@ -1,0 +1,15 @@
+body {
+  background-color: gray;
+}
+img {
+  border-color: white;
+  border-width: 8px;
+  border-style: solid;
+  border-bottom-right-radius: 23px;
+  border-bottom-left-radius: 23px;
+  border-top-left-radius: 23px;
+  border-top-right-radius: 23px;
+  
+footer {
+color: black;
+}
